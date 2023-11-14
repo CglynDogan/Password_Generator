@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #daa5a8;
+  text-align: center;
+  margin-top: 10rem;
+  color: white;
+}
+button {
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 15px;
+  background-color: #b31e57;
+  color: white;
+}
+#password-display {
+  padding: 2rem;
+  font-weight: bold;
+  font-size: 30px;
+}
